@@ -1,0 +1,10 @@
+version: "0.0.13"
+license: "MIT"
+description: "aaaaa bbb cccc"
+dependencies:
+  idf:
+    version: ">=4.1.0"
+  ronny-antoon/io_metahouse:
+    version: "*"
+    require: "public"
+
